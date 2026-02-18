@@ -47,6 +47,7 @@
             <img src="./serenity-icon.png" alt="Serenity BDD" width="40" height="40"/><a href="https://serenity-bdd.github.io/" target="_blank" rel="noreferrer">
             <img src="./soap-icon.png" alt="SoapUI" width="40" height="40"/><a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
             <img src="./playwright-icon.png" alt="Playwright" width="40" height="40"/><a href="https://playwright.dev/" target="_blank" rel="noreferrer"><a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+            <img src="./selenium.svg" alt="Playwright" width="40" height="40"/><a href="https://playwright.dev/" target="_blank" rel="noreferrer"><a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
 <br>
 
 <h3>🚀 Proyectos realizados :</h3>
