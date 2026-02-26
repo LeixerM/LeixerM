@@ -83,6 +83,18 @@
       POM Ejemplo Excel
     </a>
   </li>
+
+  <li>
+    <a href="https://github.com/LeixerM/Demoblaze" target="_blank">
+      Proyecto E2E Demoblaze
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/LeixerM/POM_Ejemplo_Excel" target="_blank">
+      APIDemoblaze
+    </a>
+  </li>
   
 
     
