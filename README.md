@@ -1,100 +1,66 @@
-<h1 align="center">Hola 👋, Soy Leixer Molina</h1>
-<h3 align="center">Ingeniero de Software , especialiazado en Testing🌟.</h3>
+<h1 align="center">Hi, I'm Leixer Molina 👋</h1>
+<h3 align="center">QA Engineer · Software Engineer · Test Automation (UI + API)</h3>
 
-<p> <img align="right" src="./animation_500_kxa883sd.gif" alt="LeixerM" /></p>
+<p align="center">
+  <a href="https://leixerm.github.io/"><strong>Portfolio → leixerm.github.io</strong></a>
+</p>
 
+<img align="right" src="./animation_500_kxa883sd.gif" alt="Animated illustration" width="280" />
 
-- 🌱 Soy un QA Automation y Funcional 
+## About me
 
-- 📫 Me puedes contactar al siguiente correo **Leixer.gmv@hotmail.com**
+- QA Engineer with 5+ years testing banking, telecom and health products, from functional testing to UI and API automation.
+- I build maintainable suites with Serenity BDD + Screenplay, Cucumber, Playwright and Karate, and run them in CI with readable reports.
+- ISTQB CTFL 4.0 certified and used to working in Scrum teams.
 
-- ⚡ Soy apasionado por el mundo del testing
+> 🇪🇸 Ingeniero QA con más de 5 años en banca, telecomunicaciones y salud, enfocado en automatización de pruebas UI y API.
 
-<br>
+## Experience at a glance
 
-<h3 align="left">Contacta Conmigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/leixer-molina" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-<br>
+| Domain | Client | Via |
+|---|---|---|
+| Health | Sura-Sanitas (Nov 2025 – present) | SONDA |
+| Banking | Davivienda Central America | Manpower |
+| Banking | Dale! | SQA S.A. |
+| Telecom | Movistar | SQA S.A. |
 
+## Tech stack
 
-<br>
+**Automation**
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Serenity BDD](https://img.shields.io/badge/Serenity_BDD-Screenplay-2DB34A?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate-API_testing-F2A33A?style=for-the-badge)
 
-<h3 align="left">Lenguajes/Frameworks/Herramientas:</h3>
-<p 
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-       <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" width="40" height="40"/></a> <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-          </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a> <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-            <img src="./appium-icon-color.png" alt="Appium" width="40" height="40"/></a> <a href="https://appium.io/" target="_blank" rel="noreferrer">
-            <img src="./serenity-icon.png" alt="Serenity BDD" width="40" height="40"/><a href="https://serenity-bdd.github.io/" target="_blank" rel="noreferrer">
-            <img src="./soap-icon.png" alt="SoapUI" width="40" height="40"/><a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
-            <img src="./playwright-icon.png" alt="Playwright" width="40" height="40"/><a href="https://playwright.dev/" target="_blank" rel="noreferrer"><a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-            <img src="./selenium.svg" alt="Playwright" width="40" height="40"/><a href="https://playwright.dev/" target="_blank" rel="noreferrer"><a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-<br>
+**API testing**
+![REST and SOAP](https://img.shields.io/badge/REST_%26_SOAP-APIs-555555?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-85CE25?style=for-the-badge)
 
-<h3>🚀 Proyectos realizados :</h3>
-<br>
+**Data, CI and process**
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 
-<ul>
-  <li>
-    <a href="https://github.com/LeixerM/Serenity_Example_OrangeHRM" target="_blank">
-      Serenity BDD - OrangeHRM Automation
-    </a>
-  </li>
+## Featured projects
 
-  <li>
-    <a href="https://github.com/LeixerM/Serenity_Ejemplo2_OrangeHRM" target="_blank">
-      Serenity BDD - OrangeHRM Automation 2
-    </a>
-  </li>
+| Project | What it shows |
+|---|---|
+| [Serenity_Calendar_Leixer](https://github.com/LeixerM/Serenity_Calendar_Leixer) | Data-driven UI tests with Serenity BDD + Screenplay + Cucumber, CI on GitHub Actions and a [live test report](https://leixerm.github.io/Serenity_Calendar_Leixer/) |
+| [Proyecto_DemoBlaze_E2E](https://github.com/LeixerM/Proyecto_DemoBlaze_E2E) | UI + API test suite for an e-commerce demo (in progress) |
+| [Serenity_Ejemplo2_OrangeHRM](https://github.com/LeixerM/Serenity_Ejemplo2_OrangeHRM) | Serenity BDD Screenplay automation of the OrangeHRM demo |
 
-  <li>
-    <a href="https://github.com/LeixerM/Serenity_Calendar_Leixer" target="_blank">
-      Serenity Calendar Leixer
-    </a>
-  </li>
+## Certifications
 
-   <li>
-    <a href="https://github.com/LeixerM/Serenity_Ejemplo_Demo_Serenity" target="_blank">
-      Serenity Ejemplo Demo Serenity
-    </a>
-  </li>
+- ISTQB® Certified Tester Foundation Level (CTFL) 4.0 — 2024
+- Scrum Fundamentals Certified (SFC) — 2024
+- COPNIA professional card (Colombian engineering license) — 2024
 
- <li>
-    <a href="https://github.com/LeixerM/POM_Ejemplo_Excel" target="_blank">
-      POM Ejemplo Excel
-    </a>
-  </li>
+## Contact
 
-  <li>
-    <a href="https://github.com/LeixerM/Demoblaze" target="_blank">
-      Proyecto E2E Demoblaze
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/LeixerM/APIDemoblaze" target="_blank">
-      APIDemoblaze
-    </a>
-  </li>
-  
-
-    
+[![Portfolio](https://img.shields.io/badge/Portfolio-leixerm.github.io-111111?style=for-the-badge)](https://leixerm.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leixer--molina-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/leixer-molina/)
+[![Email](https://img.shields.io/badge/Email-Leixer.gmv%40hotmail.com-D14836?style=for-the-badge)](mailto:Leixer.gmv@hotmail.com)
